@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+
+<html>
+
+<head> 
+	<title>INTRO TO UNDERTALE</title>
+	<style>
+	
+	a:link {
+		color: #57C7DF;
+		font-size: 10pt
+	}
+	
+	a:visited {
+		color: blue;
+	}
+	
+	a:hover {
+		background-color: black;
+		color: lavender;
+		font-size: 10pt;
+	}
+	
+	a:active {
+		color: blue;
+	}
+	
+		h1 {
+			color : white;
+			font-size: 45pt;
+		}
+		
+		body {
+			background-color: black;
+			background-image: url('undertale-monsters.jpg.jpg');
+			background-repeat: no-repeat:
+			background-size: cover;
+			background-attachment: fixed;
+			background-position: center;
+			font-size: 20 pt;
+			color:white;
+		}
+		
+		div {
+			font-family: Determination Mono;
+			background-color: black;
+			width: 800px;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 0px;
+			margin-bottom: -100px;
+			padding: 30px;
+			border: 10px solid #6AACB5;
+			border-radius: 100px;
+		}
+		
+		img {
+			float:right;
+			margin-right: 10px;
+			border: 6px solid #57C7DF;
+		}
+		
+		h2 {
+			color: #57C7DF;
+			font-size: 20pt;
+		}
+		
+		h3 {
+			color: #57C7DF;
+			font-size: 20pt;
+		}
+		
+		h4 {
+			color: #57C7DF;
+			font-size: 20pt;
+		}
+		
+	</style>
+	
+</head>
+
+<body>
+
+<div>
+
+<h1>UNDERTALE</h1>
+<p><img src="undertale.jpg.jpg"></p>
+
+<p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed pellentesque blandit cursus. Phasellus condimentum maximus volutpat. In dui odio, rutrum a ante non, tempor elementum purus. Sed eleifend varius vehicula. Aliquam a sodales lacus, sed euismod orci.</p>
+
+<h2>WHAT IS UNDERTALE?</h1>
+
+<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque finibus aliquam odio. Morbi id tristique diam, sit amet semper ex. Nulla tincidunt massa ac urna tristique tempor non vitae lectus. </p>
+
+<h3>HISTORY</h3>
+
+<p>Nam ut dictum erat, vitae feugiat lectus. Donec aliquet imperdiet tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum sollicitudin massa at quam auctor, ut egestas lectus convallis.</p>
+
+<h4>PLAY NOW!</h4>
+<ul>
+<li><a href="https://www.crunchyroll.com/">Vestibulum sollicitudin</a></li>
+<li><a href="https://www.crunchyroll.com/">Nam ut dictum</a></li>
+<li><a href="https://www.crunchyroll.com/">Interdum et malesuada</a></li>
+<li><a href="https://www.crunchyroll.com/">Aliquam a sodales</a></li>
+</ul>
+
+</div>
+
+</body>
+
+</html>
